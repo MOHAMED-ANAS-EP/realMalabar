@@ -1,0 +1,22 @@
+.stars{   
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.pro-detail h1 {
+    font-size: 1.6rem;
+}
+.location {
+    font-size: 0.7rem;
+    color: #8d8989;
+}
+.location i {
+    color: #88cc02;
+    font-size: 1rem;
+    margin-right: 10px;
+}
+.property-id{
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-top: 17px;
+    color: #88cc02; 
+}

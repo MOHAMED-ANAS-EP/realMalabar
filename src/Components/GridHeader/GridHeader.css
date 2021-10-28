@@ -1,0 +1,53 @@
+.grid-header{
+    margin-top: 3rem;
+    padding-top: 1rem;
+}
+
+.listing-title {
+    display: flex;
+}
+
+.listing-title h1{
+font-size: 1.2rem;
+margin-right: 9rem;
+}
+.list-icon {
+    font-size: 1.2rem;
+    margin: 0px 6px;
+    cursor: pointer;
+}
+.list-icon.active i{
+    color:#88cc02;
+ }
+ .bi-list-ul{
+    font-size: 1.5rem;
+    font-weight: 900;
+    line-height: 30px;
+}
+.sort-select .form-select{
+    float: right;
+    height: 28px;
+    width: 73%;
+    font-size: 0.8rem;
+    line-height: 17px;
+    padding: 2px 5px;
+}
+span.selectd-tag {
+    background-color: #dee0db;
+    padding: 5px 13px 3px 13px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+span.selectd-tag i {
+    width: 23px;
+    height: 22px;
+    background-image: url(../../assets/cancel.png);
+    float: right;
+    background-color: transparent;
+    background-size: 12px;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 5px;
+    right: -12px;
+    cursor: pointer;
+}

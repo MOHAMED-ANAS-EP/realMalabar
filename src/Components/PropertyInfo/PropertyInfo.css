@@ -1,0 +1,57 @@
+.boxShadow{
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    background: #ffff;
+    border: none;
+    box-shadow: 0 0  30px rgb(231, 228, 228);
+    padding: 1.5rem;
+}
+.property-info h3{
+    font-size: 1.2rem;
+}
+.property-info span.icon {
+    height: 18px;
+    width: 18px;
+    display: block;
+    background-size: cover;
+    /* float: left; */
+    margin-right: 10px
+}
+.property-info ul{
+    margin: 0px;
+    padding: 0px;
+}
+.property-info li{
+    list-style: none;
+    display: flex;
+    margin-bottom: 9px;
+    font-size: 0.8rem;
+}
+.property{
+     background-image: url(../../assets/property.png);
+}
+
+.purpuse{
+    background-image: url(../../assets/deal.png);
+}
+.year{
+    background-image: url(../../assets/calendar.png);
+}
+.bedrooms{
+    background-image: url(../../assets/bed_0.png);
+}
+
+.bathrooms{
+    background-image: url(../../assets/bath.png);
+}
+.area{
+    background-image: url(../../assets/measuring.png);
+}
+.furnished{
+    background-image: url(../../assets/chest-of-drawers.png);
+}
+
+
+
+
+

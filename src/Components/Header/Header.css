@@ -1,0 +1,59 @@
+header figcaption{
+    font-size: 1rem;
+}
+nav{
+    
+    margin-top: 2rem;    
+    border-radius: 8px;
+    background: #fff;
+    left: 2rem !important;
+    right: 2rem !important;
+}
+header .nav-item .nav-link{  
+        color: black;
+        font-weight: 500;
+        font-size: 0.86rem;
+        padding-right: .7rem !important;
+        padding-left: .7rem !important;
+}
+a#navbarDropdown.nav-link.active{
+        color: #88cc02
+}
+header a.nav-link.active{
+        color: #88cc02
+}
+.navbar{
+    box-shadow: 1px 9px 12px -2px #91c03321;
+    padding: 0px;
+}
+.navbar-brand{    
+    color: black;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+button.navbar-toggler  {
+    color: rgb(144, 144, 144) !important ; 
+}
+.navbar-brand span{
+    color: #88cc02
+}
+.logo{
+    width: 186px;
+    margin: 3px 0px;  
+}
+
+
+
+
+
+
+.sticky {
+    border-radius: 8px;
+    margin: 0;
+    background: #ffff;
+    position: fixed;
+    top: 0;
+   
+  }

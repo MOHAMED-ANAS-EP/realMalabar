@@ -1,0 +1,52 @@
+.aboutus{
+    background: #ffff;
+    padding: 4rem 0 4rem 0;
+}
+.cover img{
+    width: 100%;
+    height: 30rem;
+    float: left;
+    border-radius: 10px;
+}
+.about{
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+.about h6 {
+    font-size: 1.01rem;
+    font-weight: 400;
+    color: #88cc02;
+}
+
+.about h2 span{
+
+    color: #88cc02;
+
+}
+.about p{
+    padding-top: 1rem;
+}
+
+.phone{
+    display: flex;
+    width: 100%;
+    margin-top: 3rem;
+}
+.phone-icon1,.phone-icon2{
+    display: inline;
+    width: 50%;   
+}
+.phone-icon1 img,.phone-icon2 img{
+    float: left;
+    padding-top: 0.5rem;
+    width: 21px;
+}
+.phone-icon1 h5,.phone-icon2 h5{
+    display: block;
+    padding-left: 28px;
+    font-size: 0.9rem;
+}
+.phone-icon1 h5 span,.phone-icon2 h5 span{
+    color: #88cc02;
+    font-size: 0.8rem;
+}

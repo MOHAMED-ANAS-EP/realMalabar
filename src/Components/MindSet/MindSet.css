@@ -1,0 +1,49 @@
+.thoughts{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.mindset {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+.contents h6 {
+    font-size: 1.01rem;
+    font-weight: 400;
+    color: #88cc02;
+}
+.contents h2 {
+    font-size: 2.3rem;
+    color: black;
+}
+.contents p {
+    text-align: center;
+}
+.mission{
+    width: 18rem;
+    height: 15rem;
+    background: white;
+    margin: 2rem  1rem;  
+    border-radius: 10px;  
+}
+.mission h4{
+    font-family: 'El Messiri', sans-serif;
+    font-size: 2rem;  
+}
+.mission p{
+    padding: 0.5rem 2rem
+}
+.vision-icon1{
+    width: 5rem;
+    height: 5rem;
+    border-top: 2px solid #88cc02;
+    border-bottom: 2px solid rgb(187, 185, 185);
+    border-radius: 100%;
+    padding-top: 1rem;   
+    position: relative;
+    background: #ffff;
+    top: -2.5rem;  
+    margin: 0 6rem;
+    z-index: 10;
+   
+
+}

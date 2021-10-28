@@ -1,0 +1,62 @@
+.thoughts {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.thoughts-home{
+    background-image: url(../../assets/key.png);
+    background-size: initial;
+    background-position: -1px -49px;
+ 
+    background-size: 239px;
+    background-repeat: no-repeat;
+}
+.mindset{
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+.contents p{
+    text-align: center;   
+}
+/* .contents h6{    
+    font-size: 1.01rem;
+    font-weight: 400;
+    color: #88cc02;
+} */
+.contents h2{ 
+    font-size: 2.3rem;
+    color: black;
+}
+.visions-home{
+    display: flex;
+    padding-top: 2rem;
+}
+.mission-home{
+    width: 21rem;
+    height: 15rem;
+    /* height: 15rem; */
+    background: white;
+    margin: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgb(231 228 228);
+}
+.mission-home h4{
+    font-size: 1.5rem;
+
+}
+.mission-home p{
+    padding: 1rem 2rem
+}
+.mission-home img{
+    width: 46px;
+}
+.vision-icon1-home{
+    width: 5rem;
+    height: 5rem;
+    padding-top: 2rem;
+    background: #ffff;
+    margin: 0 auto;
+    z-index: 10;
+    margin-bottom: 22px;
+   
+
+}

@@ -1,0 +1,13 @@
+.location-list {
+    margin-top: 36px;
+    list-style: none;
+    padding-top: 10px;
+    margin-left: 0px;
+    padding-left: 0px;
+    font-size: 0.9rem;
+    background-color: white;
+    box-shadow: 0 0 16px rgb(231 228 228);
+    border: none;
+    border-radius: 10px;
+    height: 96%;
+}

@@ -1,0 +1,42 @@
+
+.froms{  
+    text-align: right;
+}
+.froms h5{
+    
+    font-size: 2rem;
+    color: #88cc02
+}
+.froms h6{   
+    font-size: 1rem;
+    color: black;
+}
+
+.calling {
+    color: #ffff;
+    background: #88cc02;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.8rem;
+    padding: 9px 17px;
+    text-decoration: none;
+}
+.watsup{
+    float: left;
+    width: 37px;
+    height: 34px;
+    background-color: #cecece;
+    margin-top: 4px;
+    margin-right: 8px;    
+    background-size: 100%;
+    border-radius: 7px;
+    background-repeat: no-repeat;
+    background-position: -1px -2px;
+    background-image: url(../../assets//whatsapp.png)
+}
+
+.top-wp{
+    float: right;
+    margin-top: -3px;
+    margin-left: 10px;
+}

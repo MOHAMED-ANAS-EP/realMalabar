@@ -1,0 +1,149 @@
+.home{
+    position: relative;
+}
+.home::before {
+    content: "";
+    background-image: url(../../assets/city-5.png);
+    background-position: 51% 338%;
+    background-repeat: no-repeat;
+    background-size: 76%;
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;}
+.home-text
+{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    top: 37%;
+    position: relative;
+}
+.home h6{
+
+    font-size: 2.6rem;
+    font-weight: 500;
+    color: black;
+}
+.home span{
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #88cc02 !important;
+    
+}
+.home .input-group{
+   position: relative;
+   right: -158px;
+   clear: both;
+   float: right;   
+    top: 42px;
+    
+}
+.subscribe{
+    position: relative;
+    bottom: -36%; 
+}
+.subscribe .input-group{
+    box-shadow: 0 0 15px rgb(231 228 228);
+    width: 44.2%;
+    height: 100%;    
+    border-radius: 8px;
+    display: flex;
+    align-items: center;    
+    z-index: 1;
+}
+.subscribe .input-group > i{
+    font-size: 1rem;
+    padding: 10px 20px;
+    color: #88cc02;
+}
+.subscribe .form-control{
+    flex: 1;
+    height: 100%;
+    border: none;
+    outline: none;
+   font-size: 1rem;
+   background: none;
+}
+.subscribe-button{    
+    box-shadow: 0 0 15px rgb(231 228 228);
+    font-size: 0.8rem;
+    padding: 1.1rem 1.5rem;
+    background: #88cc02;
+    color: #ffff;
+    text-align: center;
+    border: none;
+    border-radius: 8px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500;
+    width: 80%;
+}
+.subscribe-button:hover{
+    background-color: #588400;
+    color: #fff;
+}
+.numbers{
+    position: absolute;   
+    right: 3rem;
+    top: 13rem;
+}
+.numbers ul{    
+    list-style: none;   
+}
+
+
+
+.numbers .one {
+    color: #ffff;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    border-radius: 8px;
+    padding-top: .8rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+.numbers .one.active{
+    color: #ffff;
+    background: #88cc02   ;
+}
+
+.dollars {
+    position: absolute;
+    bottom: 58px;
+    right: 4rem;
+    color: #ffff;
+}
+.dollars h2{
+    font-size: 2.2rem;
+  
+}
+.dollars h6{
+    font-size: 0.8rem; 
+    font-weight: 400; 
+}
+.home-banner{    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 540px;
+    position: relative;
+}
+.home-abouts::after {
+    content: "";
+    
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 24%;
+    /* to: 0; */
+    bottom: -124px;
+    opacity: 0.3;
+    z-index: -1;
+}

@@ -1,0 +1,69 @@
+.signin{
+    margin: 0;
+    padding: 0;
+    background: #ffff;
+}
+.sign-form{
+  padding: 3rem 6rem 0 6rem;
+}
+.signin .sign-brand{  
+    
+    padding-top: 2rem;  
+    text-decoration: none;
+    font-size: 2rem;
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.sign-brand figcaption{    
+    font-size: 0.8rem;    
+}
+.sign-form form{ 
+    padding: 1rem 0;
+}
+.sign-form h3{
+  font-family: 'El Messiri', sans-serif;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 2rem 0;
+}
+.sign-form  h3 span{
+    color: #88cc02
+}  
+.sign-form form input{
+  border-radius: 8px;
+  box-shadow: 0 0 30px rgb(231, 228, 228);
+} 
+.sign-form .form-check-label {
+    color: grey;
+    font-size: 0.8rem;
+}
+.sign-form .form-check a{
+  padding-left: 3rem;
+   padding-left: 0;
+   text-decoration: none;
+  color: grey;
+  font-size: 0.8rem; 
+   color: #88cc02
+}
+.sign-form form button{
+    font-size: 0.8rem;
+    padding: 0.5rem 1.5rem;
+    background: #88cc02;
+    color: #ffff;
+    text-align: center;
+
+}
+.signin .sign-image{
+   margin: 0;
+   padding: 0;
+
+    
+}
+.signin .sign-image img{ 
+    /* margin-left: 10px;  */
+    width: 100%;
+   max-height: 100vh;
+   height: 150vh;
+}

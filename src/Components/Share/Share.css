@@ -1,0 +1,33 @@
+
+.share{
+    display: flex;
+   }
+   .share-text {
+    margin-right: 10px !important;
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 500;
+    line-height: 23px;
+}
+.share span{
+    width: 27px;
+    height: 27px;
+    background-size: 88%;
+    background-repeat: no-repeat;
+    margin: 0px 5px;
+    cursor: pointer;
+}
+.share-btn{
+ background-image: url(../../assets/share.png)
+}
+.share-fb{
+    background-image: url(../../assets/facebook.png)
+}
+.share-wp{
+    background-image: url(../../assets/whatsapp.png)
+}
+.share-ins{
+    background-image: url(../../assets/instagram.png)
+}
+
+   

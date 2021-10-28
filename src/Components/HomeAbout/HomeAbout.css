@@ -1,0 +1,98 @@
+section.home-abouts {
+    position: relative;
+}
+.home-abouts::before {
+    content: "";
+    background: url(../../assets/map.png);
+}
+.home-abouts::after {
+    content: "";
+    background: url(../../assets/map.png);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 24%;
+    top: 0;
+    bottom: -124px;
+    opacity: 0.3;
+    z-index: -1;
+}
+.insurance{   
+    padding-top: 4rem;
+    padding-bottom:4rem;
+}
+.saver h6 {
+    font-size: 1.01rem;
+    font-weight: 400;
+    color: #88cc02;
+}
+.saver h2  {
+    font-size: 2.3rem;
+    color: black;
+}
+.saver span{
+    
+    font-size: 1.3rem;
+    color: #88cc02;
+    padding-top: 1rem;
+}
+.saver p{
+    /* padding-left: 1rem; */
+    font-size: 0.8rem;    
+    padding-top: 1rem;
+}
+.safe{
+    width: 6rem;
+    height: 6rem;
+    background: #ffff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgb(231 228 228);
+    margin: 1rem 8px;   
+    padding: 10px;
+    margin-right: 4rem;
+    float: right;
+}
+.safe:nth-last-child(3){
+    margin-right: 0px !important;
+}
+.safe h6{
+    padding-top: 0.6rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+.safe img {
+    width: 36px;
+}
+.image2{
+    margin-left: 18rem;
+}
+.image1 img{  
+    position: absolute;
+    float: left;
+   width: 16rem;
+   height: 15rem;
+   border-radius: 10px;
+}
+.image2 img{  
+    position: absolute; 
+    float: left;
+    width: 16rem;
+    height: 20rem;
+   border-radius: 10px;
+ }
+ .booking{
+    position: absolute;
+    z-index: 1;
+    margin-top: 10rem;
+    width: 17rem;
+    background: #ffff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgb(115 112 112);
+    text-align: left;
+    margin-left: 10rem;
+    border-radius: 9px;
+    overflow: hidden;
+ }

@@ -1,0 +1,392 @@
+@media only screen and (max-width: 425px) and (min-width: 320px)  {
+    html, body{
+        font-size: 11px;
+    }
+    .navbar-toggler-icon {
+
+        color: #88cc02;
+        font-size: 1.5rem;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: none;
+    }
+    .nav-item {
+        border-bottom: 1px solid #88cc0238; 
+    }
+    .sticky{
+        border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    }
+    .safe {
+
+        margin-right: 32px;
+    }
+    .thoughts-home {
+
+        background-size: 112px;
+    }
+    .visions-home {
+        display: initial;
+    
+    }
+    .mission-home {
+        width: initial;}
+        .lst-image{
+            display: none;
+        }
+        .appointment-button {
+
+            text-align: center;
+        }
+    .safe img {
+        width: 29px;
+    }
+   
+    .booking,.irregular{
+        display: none !important;
+    }
+    nav{
+        margin-top: 0px;
+        width: 100%;
+        left: 0 !important;
+        
+    }
+    .home .input-group {
+        position: relative;
+        right: 12px;
+        clear: both;
+        float: right;
+        top: 42px;
+    }
+    .subscribe-button{    
+    
+        width: 83%;
+    }
+    .home {
+        height: 449px;
+    }
+   
+    .subscribe .input-group {      
+        width: 92%;     
+    }
+    .home .input-group {        
+        margin-left: 10px;
+    }
+    .numbers {        
+        top: 27rem;
+    }
+    .dollars {       
+        text-align: right;
+        padding-right: 4rem;
+    }
+    .page {
+        padding-top: 10rem;      
+    }
+    /* ===========Login ============*/
+    .login-form {      
+        padding: 2rem;
+    }   
+    /* ===========signin============== */
+    .sign-form {      
+        padding: 2rem;
+    }       
+    /* ========product details============ */
+    .love {               
+        padding-top: 1rem;
+    }
+    .banner-small img {
+        margin-top: 10px;
+        height: 8rem;
+        } 
+        .request h3{
+        padding-top: 1rem;
+      
+    }
+    .request span{
+   
+        padding-top: 1rem;
+        padding-left: 10px;
+    }
+    .description p{
+       
+      padding-top: 0rem;
+    }
+    .banner-small img {
+    margin-top: 10px;
+    }
+   
+    .property-details{      
+      padding: 1rem;
+    }.product-detail-container h5{   
+        padding-left: 0rem;
+        
+    }
+
+    .types{
+        padding: 0;      
+    }
+    .types h6{
+        padding-left: 0px;
+       
+    }
+    .listings{
+        padding: 1rem;
+    }
+  
+   
+    .listing-item {
+        margin: 0px 1rem 0px 0;
+    }
+    .wishlist i {      
+        left: 12rem;       
+    }
+    .wishlist-list i {  
+        left: 18rem;   
+    }     
+    /* property */
+    .tabss {    
+        margin-top: 0;
+    }
+    .like-save{
+        padding-top: 1rem;
+    }
+    .selectors{
+        padding-top: 1rem;
+    }
+    /* footer */
+    .footers-two{
+        padding-top: 1rem;
+    }
+    .watsup{
+        width: 27px;
+        height: 25px;
+    }
+    .calling{
+        float: left;
+    }
+    h5.mobile {
+    
+        background-size: 11px;
+
+    }
+}
+@media ( min-width:480px ) and (max-width:600px){
+    /* ===========Login ============*/
+     .login-form {      
+         padding: 2rem;
+     }   
+     /* ===========signin============== */
+     .sign-form {      
+         padding: 2rem;
+     }  
+ /* ========product details============ */
+ .banner-small img {
+    margin-top: 10px;
+    height: 8rem;
+    }    
+ .request h3{
+    padding-top: 1rem;
+      
+}
+.request span{
+  
+    padding-top: 1rem;
+    padding-left: 18px;
+}
+.description p{
+  
+  padding-top: 1rem;
+}
+.banner-small img {
+margin-top: 10px;
+}
+
+.types{
+    padding: 0; 
+}
+.types h6{
+    padding-left: 5px;
+   
+}
+
+.listing-item {
+    margin: 0px 1rem 0px 0;
+}
+.wishlist i {      
+    left: 25rem;       
+}
+.wishlist-list i {  
+    left: 25rem;   
+}
+     /* footer */
+     .footers-two{
+         padding-top: 1rem;
+     }
+ }
+ @media ( min-width:600px ) and (max-width:768px){
+     .page {
+        padding-top: 10rem;      
+    }
+    /* ===========login ============*/     
+    .login-form {      
+        padding: 2rem;
+    }
+       /* ===========signin ============*/     
+       .sign-form {      
+        padding: 2rem;
+    }       
+ /* ========product details============ */
+ .request h3{
+    padding-top: 1rem;
+       
+}
+.request span{
+ 
+    padding-top: 1rem;
+    padding-left: 18px;
+}
+.description p{
+  
+  padding-top: 1rem;
+}
+.banner-small img {
+margin-top: 10px;
+height: 8rem;
+}
+
+.types{
+    padding: 0; 
+}
+.types h6{
+    padding-left: 5px;
+  
+}
+.listing-item {
+    margin: 0px 1rem 0px 0;
+}
+   .wishlist i {      
+    left: 8rem;       
+   }
+   .wishlist-list i {  
+    left: 18rem;   
+}
+ }
+@media ( min-width:768px ) and (max-width:900px){
+    /* ===========login ============*/     
+    .login-form {      
+        padding: 3rem;
+    }
+  
+       /* ===========signin ============*/     
+       .sign-form {      
+        padding: 2rem;
+    }  
+     /* ========product details============ */
+ /* ========product details============ */
+
+.request span{
+    
+    /* padding-top: 1rem; */
+    padding-left: 15px;
+}
+
+.banner-small img {
+margin-top: 10px;
+height: 8rem;
+}
+
+.types{
+    padding: 0;
+  
+}
+.types h6{
+    padding-left: 0;
+   
+}
+
+.listing-item {
+    margin: 0px 1rem 0px 0;
+}
+.wishlist i {      
+    left: 8rem;       
+   }
+   .img-container-list img {   
+    height: 100%;
+}
+   .wishlist-list i {  
+    left: 18rem;   
+}
+   .product-detail-container h5 {
+    padding-left: 0rem;   
+}
+ }
+
+
+
+ @media ( min-width:900px ) and (max-width:1024px){
+    /* ===========login ============*/     
+    .login-form {      
+        padding: 3rem;
+    }  
+      /* ===========signup ============*/     
+      .sign-form {      
+        padding: 2rem;
+    }  
+     /* ========product details============ */
+
+.request span{
+ 
+    padding-left: 15px;
+}
+
+.banner-small img {
+margin-top: 10px;
+}
+
+.types{
+    padding: 0;
+  
+}
+
+.listing-item {
+    margin: 0px 1rem 0px 0;
+} 
+.wishlist i {      
+    left: 15rem;       
+}
+.product-detail-container h5 {
+    padding-left: 0rem;   
+}
+.wishlist-list i {  
+    left: 25rem;   
+}
+.img-container-list img {   
+    height: 100%;
+}
+ }
+ @media ( min-width:1024px ) and (max-width:1199px){
+    /* ===========login ============*/     
+    .login-form {      
+        padding: 3rem;
+    }
+ 
+      /* ===========signup ============*/     
+      .sing-form {      
+        padding: 2rem;
+    }  
+    .wishlist i {      
+        left: 15rem;       
+    }
+    .wishlist-list i {  
+        left: 25rem;   
+    }
+ }
+ @media ( min-width:1200px ){
+    /* ===========Login ============*/     
+    .login-form {      
+        padding: 3rem;
+    }   
+  
+ }

@@ -1,0 +1,25 @@
+.pagination{
+    padding-top: 2rem;
+}
+.pagination ul{
+   list-style: none;
+}
+.pagination ul li .pagin{
+    box-shadow: 0 0 15px rgb(231 228 228);
+    width: 2rem;
+    height: 2rem;
+    background: #ffff;
+    color: black;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: 0.5rem;
+    line-height: 31px;
+    font-size: 0.8rem;
+    cursor: pointer;
+} 
+.pagination ul li .pagin:hover{
+    background: #88cc02    ;
+}
+ .pagination div.pagin.active{  
+    background: #88cc02    ;
+} 

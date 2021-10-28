@@ -1,0 +1,10 @@
+.property-banner img{
+    height: 28rem;
+    width: 100%;
+    margin-bottom: 1rem;
+    text-align: center;
+    border-radius: 1rem;
+}
+.col-md-8.property-banner{
+    padding-top: 19px;
+}
